@@ -1,0 +1,542 @@
+Cmp-Mod V01 Created by Cvpcb (2015-02-06 BZR 5410)-product   date = Mon 09 Feb 2015 04:12:04 PM PST
+
+BeginCmp
+TimeStamp = /566F1F2E;
+Reference = BAT1;
+ValeurCmp = BATTERY20SMD;
+IdModule  = SPARKFUN-ELECTROMECHANICAL_BATTCON_20MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F1FF6;
+Reference = C1;
+ValeurCmp = 47UF-10V-10%(TANT);
+IdModule  = SPARKFUN-CAPACITORS_EIA3528;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F20BE;
+Reference = C2;
+ValeurCmp = 47UF-10V-10%(TANT);
+IdModule  = SPARKFUN-CAPACITORS_EIA3528;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F2186;
+Reference = C3;
+ValeurCmp = C-EUC0805;
+IdModule  = RCL_C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F224E;
+Reference = C4;
+ValeurCmp = C-EUC0805;
+IdModule  = RCL_C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F2316;
+Reference = C5;
+ValeurCmp = C-EUC0805;
+IdModule  = RCL_C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F23DE;
+Reference = C6;
+ValeurCmp = C-EUC0805;
+IdModule  = RCL_C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F24A6;
+Reference = C7;
+ValeurCmp = C-EUC0805;
+IdModule  = RCL_C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F256E;
+Reference = C8;
+ValeurCmp = C-EUC0805;
+IdModule  = RCL_C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F2636;
+Reference = C9;
+ValeurCmp = C-EUC0805;
+IdModule  = RCL_C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F26FE;
+Reference = C10;
+ValeurCmp = C-EUC0805;
+IdModule  = RCL_C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F27C6;
+Reference = C11;
+ValeurCmp = C-EUC0805;
+IdModule  = RCL_C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F288E;
+Reference = C12;
+ValeurCmp = 47UF-10V-10%(TANT);
+IdModule  = SPARKFUN-CAPACITORS_EIA3528;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F2956;
+Reference = C13;
+ValeurCmp = 47UF-10V-10%(TANT);
+IdModule  = SPARKFUN-CAPACITORS_EIA3528;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F2A1E;
+Reference = C15;
+ValeurCmp = C-EUC0805;
+IdModule  = RCL_C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F2AE6;
+Reference = D1;
+ValeurCmp = 1N4004;
+IdModule  = DIODE_DO41-10;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F2BAE;
+Reference = D2;
+ValeurCmp = BAT60J;
+IdModule  = DIODE_SOD323_ST;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F39BE;
+Reference = IC1;
+ValeurCmp = DS3231/SO;
+IdModule  = ADAFRUIT_SO16W;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F3A86;
+Reference = J1;
+ValeurCmp = 1X2-3.5MM;
+IdModule  = ADAFRUIT_1X2-3.5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F3B4E;
+Reference = J2;
+ValeurCmp = 1X2-3.5MM;
+IdModule  = ADAFRUIT_1X2-3.5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F3C16;
+Reference = J3;
+ValeurCmp = 1X2-3.5MM;
+IdModule  = ADAFRUIT_1X2-3.5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F3CDE;
+Reference = J4;
+ValeurCmp = 1X2-3.5MM;
+IdModule  = ADAFRUIT_1X2-3.5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F3DA6;
+Reference = J5;
+ValeurCmp = 1X2-3.5MM;
+IdModule  = ADAFRUIT_1X2-3.5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F3E6E;
+Reference = J6;
+ValeurCmp = DCJ0202;
+IdModule  = CON-JACK_DCJ0202;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F3F36;
+Reference = J7;
+ValeurCmp = 1X2-3.5MM;
+IdModule  = ADAFRUIT_1X2-3.5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F3FFE;
+Reference = J8;
+ValeurCmp = 1X2-3.5MM;
+IdModule  = ADAFRUIT_1X2-3.5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F40C6;
+Reference = J9;
+ValeurCmp = 1X2-3.5MM;
+IdModule  = ADAFRUIT_1X2-3.5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F418E;
+Reference = JP2;
+ValeurCmp = PINHD-1X8-3.5MM;
+IdModule  = ADAFRUIT_1X08-3.5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F4256;
+Reference = K1;
+ValeurCmp = AZ8-FORM-C;
+IdModule  = RELAY_AZ8;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F4382;
+Reference = K2;
+ValeurCmp = AZ8-FORM-C;
+IdModule  = RELAY_AZ8;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F44AE;
+Reference = LED1;
+ValeurCmp = LEDSML0805;
+IdModule  = LED_SML0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F4576;
+Reference = LED2;
+ValeurCmp = LEDSML0805;
+IdModule  = LED_SML0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F463E;
+Reference = LED3;
+ValeurCmp = LEDSML0805;
+IdModule  = LED_SML0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F4706;
+Reference = LED4;
+ValeurCmp = LEDSML0805;
+IdModule  = LED_SML0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F47CE;
+Reference = LED5;
+ValeurCmp = LEDSML0805;
+IdModule  = LED_SML0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F4896;
+Reference = LED6;
+ValeurCmp = LEDSML0805;
+IdModule  = LED_SML0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F495E;
+Reference = LED7;
+ValeurCmp = LEDSML0805;
+IdModule  = LED_SML0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F4A26;
+Reference = LED8;
+ValeurCmp = LEDSML0805;
+IdModule  = LED_SML0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F4ED6;
+Reference = PCB1;
+ValeurCmp = BEAGLEBONE_BLACK;
+IdModule  = E14_BEAGLEBONEBLACK_REVA_BEAGLEBONE_BLACK;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F4F9E;
+Reference = Q1;
+ValeurCmp = MOSFET-NREFLOW;
+IdModule  = ADAFRUIT_SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F5066;
+Reference = Q2;
+ValeurCmp = MOSFET-NREFLOW;
+IdModule  = ADAFRUIT_SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F512E;
+Reference = Q3;
+ValeurCmp = NPN-TRANSISTOR_SOT23;
+IdModule  = SEMICON-SMD-IPC_SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F51F6;
+Reference = Q4;
+ValeurCmp = NPN-TRANSISTOR_SOT23;
+IdModule  = SEMICON-SMD-IPC_SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F52BE;
+Reference = R2;
+ValeurCmp = R-US_R0805;
+IdModule  = RESISTOR_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F5386;
+Reference = R3;
+ValeurCmp = R-US_R0805;
+IdModule  = RESISTOR_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F19B7;
+Reference = R4;
+ValeurCmp = R-US_R0805;
+IdModule  = RESISTOR_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F54B3;
+Reference = R5;
+ValeurCmp = R-US_R0805;
+IdModule  = RESISTOR_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F557B;
+Reference = R6;
+ValeurCmp = R-US_R0805;
+IdModule  = RESISTOR_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F5643;
+Reference = R7;
+ValeurCmp = R-US_R0805;
+IdModule  = RESISTOR_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F570B;
+Reference = R8;
+ValeurCmp = R-US_R0805;
+IdModule  = RESISTOR_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F57D3;
+Reference = R9;
+ValeurCmp = R-US_R0805;
+IdModule  = RESISTOR_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F589B;
+Reference = R10;
+ValeurCmp = R-US_R0805;
+IdModule  = RESISTOR_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F5963;
+Reference = R11;
+ValeurCmp = R-US_R0805;
+IdModule  = RESISTOR_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F5A2B;
+Reference = R12;
+ValeurCmp = R-US_R0805;
+IdModule  = RESISTOR_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F5AF3;
+Reference = R13;
+ValeurCmp = R-US_R0805;
+IdModule  = RESISTOR_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F5BBB;
+Reference = R14;
+ValeurCmp = R-US_R0805;
+IdModule  = RESISTOR_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F5C83;
+Reference = R15;
+ValeurCmp = R-US_R0805;
+IdModule  = RESISTOR_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F5D4B;
+Reference = R16;
+ValeurCmp = R-US_R0805;
+IdModule  = RESISTOR_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F5E13;
+Reference = R17;
+ValeurCmp = R-US_R0805;
+IdModule  = RESISTOR_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F5EDB;
+Reference = R18;
+ValeurCmp = R-US_R0805;
+IdModule  = RESISTOR_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F5FA3;
+Reference = R19;
+ValeurCmp = R-US_R0805;
+IdModule  = RESISTOR_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F606B;
+Reference = R20;
+ValeurCmp = R-US_R0805;
+IdModule  = RESISTOR_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F6133;
+Reference = R21;
+ValeurCmp = R-US_R0805;
+IdModule  = RESISTOR_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F61FB;
+Reference = R22;
+ValeurCmp = R-US_R0805;
+IdModule  = RESISTOR_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F62C3;
+Reference = R23;
+ValeurCmp = R-US_R0805;
+IdModule  = RESISTOR_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F638B;
+Reference = R24;
+ValeurCmp = R-US_R0805;
+IdModule  = RESISTOR_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F6453;
+Reference = R25;
+ValeurCmp = R-US_R0805;
+IdModule  = RESISTOR_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F651B;
+Reference = R26;
+ValeurCmp = R-US_R0805;
+IdModule  = RESISTOR_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F65E3;
+Reference = R27;
+ValeurCmp = R-US_R0805;
+IdModule  = RESISTOR_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F66AB;
+Reference = R28;
+ValeurCmp = R-US_R0805;
+IdModule  = RESISTOR_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F6773;
+Reference = U$1;
+ValeurCmp = HCPL3700;
+IdModule  = JOHN_HCPL3700;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F683B;
+Reference = U$2;
+ValeurCmp = HCPL3700;
+IdModule  = JOHN_HCPL3700;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F6903;
+Reference = U$3;
+ValeurCmp = AP1509-50;
+IdModule  = GMD_CUSTOM_SOP-8L;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F69CB;
+Reference = U$4;
+ValeurCmp = SRR-1280;
+IdModule  = GMD_CUSTOM_SRR-1280;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F6A93;
+Reference = VP_0;
+ValeurCmp = VPDEV0;
+IdModule  = VPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F6B5B;
+Reference = X2;
+ValeurCmp = W237-103;
+IdModule  = CON-WAGO-500_W237-103;
+EndCmp
+
+BeginCmp
+TimeStamp = /566F6CEB;
+Reference = X3;
+ValeurCmp = W237-103;
+IdModule  = CON-WAGO-500_W237-103;
+EndCmp
+
+EndListe
